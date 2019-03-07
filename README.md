@@ -1,0 +1,1 @@
+# majunxin.github.io
