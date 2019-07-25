@@ -1,0 +1,11 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ranshaokapai_tex",
+  "_atlasJson": "{\"width\":1024,\"SubTexture\":[{\"frameWidth\":327,\"y\":530,\"frameHeight\":266,\"width\":317,\"frameX\":-5,\"height\":261,\"name\":\"ranshaokapai_08\",\"frameY\":-2,\"x\":648},{\"frameWidth\":327,\"y\":1,\"frameHeight\":266,\"width\":325,\"frameX\":0,\"height\":265,\"name\":\"ranshaokapai_01\",\"frameY\":-1,\"x\":328},{\"frameWidth\":327,\"y\":1,\"frameHeight\":266,\"width\":325,\"frameX\":-2,\"height\":266,\"name\":\"ranshaokapai_02\",\"frameY\":0,\"x\":1},{\"frameWidth\":327,\"y\":530,\"frameHeight\":266,\"width\":313,\"frameX\":-7,\"height\":257,\"name\":\"ranshaokapai_06\",\"frameY\":-2,\"x\":1},{\"frameWidth\":327,\"y\":269,\"frameHeight\":266,\"width\":312,\"frameX\":-6,\"height\":259,\"name\":\"ranshaokapai_07\",\"frameY\":-2,\"x\":1},{\"frameWidth\":327,\"y\":1,\"frameHeight\":266,\"width\":323,\"frameX\":-4,\"height\":263,\"name\":\"ranshaokapai_03\",\"frameY\":-1,\"x\":655},{\"frameWidth\":327,\"y\":268,\"frameHeight\":266,\"width\":318,\"frameX\":-3,\"height\":263,\"name\":\"ranshaokapai_05\",\"frameY\":-2,\"x\":328},{\"frameWidth\":327,\"y\":266,\"frameHeight\":266,\"width\":320,\"frameX\":-3,\"height\":262,\"name\":\"ranshaokapai_04\",\"frameY\":-2,\"x\":655}],\"height\":1024,\"name\":\"ranshaokapai\",\"imagePath\":\"ranshaokapai_tex.png\"}",
+  "_texture": {
+    "__uuid__": "df90LldgtGXZvEBJYd0QUK"
+  },
+  "texture": {
+    "__uuid__": "df90LldgtGXZvEBJYd0QUK"
+  }
+}

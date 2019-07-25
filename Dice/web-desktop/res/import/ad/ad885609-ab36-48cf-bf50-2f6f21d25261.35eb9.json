@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_item3",
+    "texture": "00irXppWxFF5u50n/Nw35r",
+    "rect": [
+      0,
+      0,
+      241,
+      254
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      242,
+      254
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

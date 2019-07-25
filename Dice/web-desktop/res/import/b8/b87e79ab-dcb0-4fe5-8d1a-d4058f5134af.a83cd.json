@@ -1,0 +1,11 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "fuhuo_tex",
+  "_atlasJson": "{\"width\":256,\"SubTexture\":[{\"width\":30,\"y\":221,\"height\":30,\"name\":\"点\",\"x\":119},{\"width\":116,\"y\":1,\"height\":226,\"name\":\"0\",\"x\":1},{\"width\":4,\"y\":1,\"height\":219,\"name\":\"1\",\"x\":230},{\"width\":109,\"y\":87,\"height\":65,\"name\":\"右\",\"x\":119},{\"width\":109,\"y\":154,\"height\":65,\"name\":\"左\",\"x\":119},{\"width\":101,\"y\":1,\"height\":84,\"name\":\"心\",\"x\":119}],\"height\":256,\"name\":\"fuhuo\",\"imagePath\":\"fuhuo_tex.png\"}",
+  "_texture": {
+    "__uuid__": "71o8JmGS9FcZsNwflKIWWQ"
+  },
+  "texture": {
+    "__uuid__": "71o8JmGS9FcZsNwflKIWWQ"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "baoxiang_tex",
+  "_atlasJson": "{\"width\":2048,\"SubTexture\":[{\"width\":379,\"y\":506,\"height\":296,\"name\":\"4\",\"x\":767},{\"width\":359,\"y\":506,\"height\":298,\"name\":\"3\",\"x\":1148},{\"width\":342,\"y\":506,\"height\":480,\"name\":\"8\",\"x\":423},{\"width\":347,\"y\":1,\"height\":255,\"name\":\"1\",\"x\":829},{\"width\":404,\"y\":1,\"height\":503,\"name\":\"7\",\"x\":423},{\"width\":362,\"y\":506,\"height\":293,\"name\":\"2\",\"x\":1509},{\"width\":407,\"y\":523,\"height\":309,\"name\":\"5\",\"x\":1},{\"width\":420,\"y\":1,\"height\":520,\"name\":\"6\",\"x\":1},{\"width\":52,\"y\":961,\"height\":62,\"name\":\"guangdian1\",\"x\":1},{\"width\":125,\"y\":834,\"height\":125,\"name\":\"guangyun\",\"x\":1}],\"imagePath\":\"baoxiang_tex.png\",\"name\":\"baoxiang\",\"height\":1024}",
+  "_texture": {
+    "__uuid__": "aezrXVWLdBgK73+90FBk+z"
+  },
+  "texture": {
+    "__uuid__": "aezrXVWLdBgK73+90FBk+z"
+  }
+}

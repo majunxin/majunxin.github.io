@@ -1,0 +1,11 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "chenmo_tex",
+  "_atlasJson": "{\"width\":128,\"SubTexture\":[{\"width\":113,\"y\":1,\"height\":103,\"name\":\"0\",\"x\":1},{\"width\":17,\"y\":106,\"height\":18,\"name\":\"1\",\"x\":1},{\"width\":17,\"y\":106,\"height\":16,\"name\":\"2\",\"x\":40},{\"width\":18,\"y\":106,\"height\":17,\"name\":\"3\",\"x\":20}],\"height\":128,\"name\":\"chenmo\",\"imagePath\":\"chenmo_tex.png\"}",
+  "_texture": {
+    "__uuid__": "2cskhwMcZLupnIn3XH662b"
+  },
+  "texture": {
+    "__uuid__": "2cskhwMcZLupnIn3XH662b"
+  }
+}

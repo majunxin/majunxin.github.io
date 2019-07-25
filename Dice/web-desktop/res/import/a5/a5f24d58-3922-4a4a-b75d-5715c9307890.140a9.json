@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mark_blind",
+    "texture": "c8OL7jKIZKXYAh1Wfuk8G+",
+    "rect": [
+      1,
+      16,
+      56,
+      37
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      58,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
