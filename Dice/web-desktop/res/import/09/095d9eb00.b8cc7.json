@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"mask_dice","texture":"17ff7d979","rect":[915,407,100,100],"offset":[0,0],"originalSize":[108,108],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"image_dice","texture":"17ff7d979","rect":[434,334,100,100],"offset":[0,0],"originalSize":[100,100],"capInsets":[0,0,0,0]}}]
