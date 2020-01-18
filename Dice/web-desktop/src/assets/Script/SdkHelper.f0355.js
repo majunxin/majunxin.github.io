@@ -1,0 +1,1 @@
+window.sdkHelper={},window.sdkHelper.watchVideo=function(){window.sdkHelper.androidVideoFinish()},window.sdkHelper.androidVideoFinish=function(){window.waiting.close(),window.rewardAdCallback&&(window.rewardAdCallback(),window.rewardAdCallback=null)},window.sdkHelper.rewardVideoCatched=function(){window.gameInstance.adReady=!0};
